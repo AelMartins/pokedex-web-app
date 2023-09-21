@@ -7,7 +7,12 @@
 #### Exibir informações detalhadas sobre o Pokémon, incluindo ID, nome, tipos, altura e peso.
 #### Mostrar as fraquezas, ineficácias, imunidades e eficácia contra outros tipos do Pokémon.
 
-## Pré-requisitos
+## Para acessar o projeto online, basta copiar a seginte URL:
+
+
+`https://pokedex-web-app-black.vercel.app/`
+
+## Pré-requisitos de instalação
 Antes de começar, certifique-se de ter instalado o seguinte:
 
 `Node.js (v14 ou superior)`
